@@ -13,3 +13,7 @@ Here, instead of taking this initial sequence of bits at random, we simply gener
 
 
 
+## Warning
+
+This is an experimental project and should not be used to store crypto currency if you are not aware of the precautions that are required in order to safely use Brain Wallets.
+
