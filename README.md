@@ -11,7 +11,7 @@ In the process of generating a random BIP39 mnemonic phrase we usually take a ra
 
 Here, instead of taking this initial sequence of bits at random, we simply generate them from the SHA256 hash of the provided text.
 
-
+*Important note:* 8 extra bits are taken from the hash of the hash and added to the final result used to obtain the mnemonic phrases.
 
 ## Warning
 
